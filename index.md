@@ -36,14 +36,14 @@
          background-color:green; 
          color: black; 
          border: solid black 2px; 
-         width:100% 
+         width:50% 
          } 
   
          input[type="text"] 
          { 
          background-color:white; 
          border: solid black 2px; 
-         width:100% 
+         width:50% 
          } 
       </style> 
    </head> 
