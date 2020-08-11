@@ -29,18 +29,18 @@
 
 <header >
  
-<div class="card w-20 m-auto text-center ">
+<div class="card w-70 m-auto text-center ">
   <div class="card-header bg-danger text-white">V3DAXT</div>
   <div class="card-body">
    <form class="form-inline w-75 m-auto">
     <div class="form-group">
-     <input type="text" name="" class="form-control text-center" placeholder="Your Name" id="name" >
+     <input type="text" name="" class="form-control text-center" placeholder="Tera Naam" id="name" >
     </div>
     <div class="pl-4 pr-4">
      <span> + </span>
     </div>
     <div class="form-group">
-     <input type="text" name="" class="form-control text-center" placeholder="Bhabhi" id="lname">
+     <input type="text" name="" class="form-control text-center" placeholder="Bhabhi ka Naam" id="lname">
     </div>
    </form> <br>
     <div class="w-70 m-auto">
