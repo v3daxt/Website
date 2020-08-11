@@ -37,7 +37,6 @@
      <input type="text" name="" class="form-control text-center" placeholder="Tera Naam" id="name" >
     </div>
     <div class="pl-4 pr-4">
-     <span> + </span>
     </div>
     <div class="form-group">
      <input type="text" name="" class="form-control text-center" placeholder="Bhabhi ka Naam" id="lname">
