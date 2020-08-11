@@ -32,7 +32,7 @@
 <div class="card w-60 m-auto text-center ">
   <div class="card-header bg-danger text-white">V3DAXT'S Love Calculator</div>
   <div class="card-body">
-   <form class="form-inline w-75 m-auto">
+   <form class="form-inline w-50 m-auto">
     <div class="form-group">
      <input type="text" name="" class="form-control text-center" placeholder="Tera Naam" id="name" >
     </div>
