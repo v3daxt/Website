@@ -8,7 +8,7 @@
 
 <style >
  body{
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://s01.sgp1.digitaloceanspaces.com/large/880445-aazxyprclb-1527422690.jpeg');
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://www.memestemplates.com/wp-content/uploads/2020/06/plastic-surgery-ka-naam-suna-hai-1024x493.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
