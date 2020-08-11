@@ -1,45 +1,90 @@
+
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="keywords" content="Love Calculator by SKRILLEX" />
-<meta name="description" content="Best Love calculator by SKRILLEX" />
-<meta name="author" content="Ronit">
+ <title></title>
+ <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
 
-<noscript>
-<h2> ENABLE JAVA SCRIPT </h2>
-</noscript>
+<style >
+ body{
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://images.pexels.com/photos/1028725/pexels-photo-1028725.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+ }
+ header{
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ }
+</style>
 </head>
-
 <body>
-<form>
-    <div  class="blocks"><h2>Your<br> Name</h2></div>
 
-  <div class="blocks">
-    <input class="c" size="50" type="text" name="cnameone" id="cnameone">
-   </div>
-
-  <div class="blocks"><h2 >Your <br> Soulmate's<br> Name</h2></div>
-   
-
-  <div class="blocks"><input class="c" size="50" type="text" name="cnametwo" id="cnametwo"></div>
-   <br>
-   <br />
-   <br />
-   <br />
-  
-  <div class="blocks"><input class="c"  type="button" value="Know Your Love" onclick="calc()" /> </div>
-
-  
-    
-  <div id="coutput" class="blocks" ></div>
-  
-  
-  
-  
-  <footer class="blocks">
-  <a href="http:lovezone.netne.net"><h3 style="text-align:center">Visit Full Site</h3></a>
-  </footer>
+<header >
  
- </form>
+<div class="card w-50 m-auto text-center ">
+  <div class="card-header bg-danger text-white">LOVE CALCULATOR</div>
+  <div class="card-body">
+   <form class="form-inline w-75 m-auto">
+    <div class="form-group">
+     <input type="text" name="" class="form-control text-center" placeholder="Your Name" id="name" >
+    </div>
+    <div class="pl-4 pr-4">
+     <span> + </span>
+    </div>
+    <div class="form-group">
+     <input type="text" name="" class="form-control text-center" placeholder=" Love Name" id="lname">
+    </div>
+   </form> <br>
+    <div class="w-70 m-auto">
+     <button  class="btn btn-success w-50" onclick="checkloveper()"> click </button>
+    </div>
+    <br>
+    <div>
+     <input type="text" name="" placeholder="LOVE PERCENTAGE" class="form-control text-center w-25 m-auto" id="lovevalue">
+    </div>
+  </div> 
+  <div class="card-footer ">God Bless Your RelationShip</div>
+</div>
+
+</header>
+
+<script>
+ function checkloveper(){
+
+  var name = document.getElementById('name').value;
+  var lname = document.getElementById('lname').value;
+
+  if(name == ""){
+   alert('Please enter your name');
+  }else if (name.length <=2 ) {
+   alert('Min lenght is 3')
+  }else if(!isNaN(name)){
+   alert('Numbers are not allowed');
+  }
+
+  else if(lname == ""){
+   alert('Please enter your love name');
+  }else if (lname.length <=2 ) {
+   alert('Min lenght is 3')
+  }else if(!isNaN(lname)){
+   alert('Numbers are not allowed');
+  }
+  else{
+  var lovdata = Math.random() * 100;
+  lovdata = Math.floor(lovdata);
+  document.getElementById('lovevalue').value = lovdata + "%"; 
+  }
+  
+ }
+</script>
 </body>
+
 </html>
