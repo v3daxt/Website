@@ -8,7 +8,7 @@
 
 <style >
  body{
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://im.idiva.com/content/2020/Jul/10-Hilarious-Babu-Bhaiya-Burns-From-Hera-Pheri-That-Never-Get-Old_5_5efdf4836d955.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://s01.sgp1.digitaloceanspaces.com/large/880445-aazxyprclb-1527422690.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
