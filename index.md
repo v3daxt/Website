@@ -8,7 +8,7 @@
 
 <style >
  body{
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://images.pexels.com/photos/1028725/pexels-photo-1028725.jpeg');
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://images.jansatta.com/2020/07/carryminati-850-620x400.jpg?w=680&h=439');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -51,7 +51,7 @@
      <input type="text" name="" placeholder="LOVE PERCENTAGE" class="form-control text-center w-25 m-auto" id="lovevalue">
     </div>
   </div> 
-  <div class="card-footer ">God Bless Your RelationShip</div>
+  <div class="card-footer ">MY NAME IS SKRILLEX</div>
 </div>
 
 </header>
