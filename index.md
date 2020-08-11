@@ -8,7 +8,7 @@
 
 <style >
  body{
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://images.jansatta.com/2020/07/carryminati-850-620x400.jpg?w=680&h=439');
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://goop.com/wp-content/uploads/2017/07/illuminati-Stocksy_txpa9f01b08qmY100_Medium_779584.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
