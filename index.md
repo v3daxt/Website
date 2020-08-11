@@ -8,7 +8,7 @@
 
 <style >
  body{
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://goop.com/wp-content/uploads/2017/07/illuminati-Stocksy_txpa9f01b08qmY100_Medium_779584.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://s01.sgp1.digitaloceanspaces.com/large/880445-aazxyprclb-1527422690.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
