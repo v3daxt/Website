@@ -40,7 +40,7 @@
      <span> + </span>
     </div>
     <div class="form-group">
-     <input type="text" name="" class="form-control text-center" placeholder=" Love Name" id="lname">
+     <input type="text" name="" class="form-control text-center" placeholder="Bhabhi" id="lname">
     </div>
    </form> <br>
     <div class="w-70 m-auto">
@@ -51,7 +51,7 @@
      <input type="text" name="" placeholder="LOVE PERCENTAGE" class="form-control text-center w-25 m-auto" id="lovevalue">
     </div>
   </div> 
-  <div class="card-footer ">Tera toh katega pakka</div>
+  <div class="card-footer ">Tera toh pakka katega</div>
 </div>
 
 </header>
