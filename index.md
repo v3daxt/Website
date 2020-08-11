@@ -8,7 +8,7 @@
 
 <style >
  body{
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://resizeimage.net/viewimg/x8UrqGI981BSr1pH/Wh5Dy/plastic-surgery-ka-naam-suna-h.png');
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://s01.sgp1.digitaloceanspaces.com/large/880445-aazxyprclb-1527422690.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
