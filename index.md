@@ -30,7 +30,7 @@
 <header >
  
 <div class="card w-50 m-auto text-center ">
-  <div class="card-header bg-danger text-white">LOVE CALCULATOR</div>
+  <div class="card-header bg-danger text-white">V3DAXT</div>
   <div class="card-body">
    <form class="form-inline w-75 m-auto">
     <div class="form-group">
@@ -51,7 +51,7 @@
      <input type="text" name="" placeholder="LOVE PERCENTAGE" class="form-control text-center w-25 m-auto" id="lovevalue">
     </div>
   </div> 
-  <div class="card-footer ">MY NAME IS SKRILLEX</div>
+  <div class="card-footer ">Tera toh katega pakka</div>
 </div>
 
 </header>
